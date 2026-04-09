@@ -23,15 +23,11 @@ joinText: Join Sunrise Bay Area (Signal Announcements Chat)
 
 {{< image-block image="/img/hubmap.jpg" >}}
 
-{{< image-block image="/img/sbr_logo.png" >}}
-
-{{< text-block title="Sunrise Bay Radio" text="We are broadcasting the decade of the Green New Deal from our hub's new podcast, Sunrise Bay Radio! Each episode, our hosts Maritte and Richard take a deep dive into how climate change intersects with our highly interconnected society and what we can do to fight back! Tune in each month as we speak with experts, share stories from real people affected by climate change, and map out what it will take to build a livable future. Now available on these platforms: Apple Podcasts, Spotify, Google Podcasts, & Anchor." button-text-1="Apple Podcasts" button-url-1="https://srba.fyi/Wx31" button-text-2="Spotify" button-url-2="https://srba.fyi/podcast" >}}
-
 {{< parallax-block image="/img/trump_banner.jpg" >}}
 
 {{< text-block title="Support Our Movement" text="Join our mailing list to hear about upcoming actions, trainings, and open meetings. And support our work by making a donation. Contributions like yours make what we do possible." button-text-1="Join Our Mailing List" button-url-1="https://srba.fyi/join" button-text-2="Donate To The Hub" button-url-2="https://srba.fyi/donate" >}}
 
-{{< text-block title="Contact Us" text="For general inquries about Sunrise Bay Area, feel free to send us an email at bayarea@sunrisemovement.org. If you'd like a Sunrise presentation for your organization, please fill out the request form linked below, and we'll get back to you as soon as possible." button-text-1="Send Us An Email" button-url-1="mailto:bayarea@sunrisemovement.org" button-text-2="Request A Presentation" button-url-2="https://srba.fyi/presreq" >}}
+{{< text-block title="Contact Us" text="For general inquries about Sunrise Bay Area, feel free to send us an email at bayarea@sunrisemovement.org. If you'd like a Sunrise presentation for your organization, please fill out the request form linked below, and we'll get back to you as soon as possible." button-text-1="Send Us An Email" button-url-1="mailto:bayarea@sunrisemovement.org" button-text-2="Request A Presentation" button-url-2="mailto:bayarea@sunrisemovement.org" >}}
 
 <!-- -------------- DO NOT MODIFY (unless you know what you're doing). -------------- -->
 
