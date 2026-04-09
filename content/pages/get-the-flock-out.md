@@ -6,6 +6,10 @@ menu:
 ---
 ## F﻿UCK ICE - FUCK TRUMP - FUCK FLOCK!
 
+
+
+
+
 B﻿ig Brother Bay Area is LIVE in Oakland, San Francisco & Berkeley.\
 \
 W﻿e can't sugar coat it any longer... the US is a SH*TSHOW rn.....
@@ -14,11 +18,17 @@ W﻿e can't sugar coat it any longer... the US is a SH*TSHOW rn.....
 
 ### S﻿o how do we change that? How can YOU change that?
 
+
+
 T﻿he bay area is a part of this messed up facist war-machine. The tech billionaire oligarchs that live next door to us fund not only Trump and his heinous crimes against humanity within our borders, at our borders, and abroad - they also fund the technologies that allow MASS VIOLENCE & MASS SURVIELLANCE.
+
+
+
+
 
 {{< wide-image-block image="/img/screenshot-2026-04-08-at-9.49.30 pm.png" >}}
 
-### F﻿LOCK 
+### F﻿LOCK
 
 {{< image-block image="/img/screenshot-2026-04-08-at-7.22.40 pm.png" >}}
 
