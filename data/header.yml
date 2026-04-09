@@ -3,11 +3,12 @@ navbarNameTop: Sunrise Movement
 navbarNameBottom: Bay Area
 joinUrl: https://srba.fyi/join
 menuItems:
-  - text: Blog
-    url: https://srba.fyi/blog
   - text: Donate
     url: https://srba.fyi/donate
+  - text: Flock Campaign
+    url: https://sunrisebayarea.org/flockout/
 banner:
-  url: https://anchor.fm/sunrisebayradio
-  text: Tune in to the latest episode of Sunrise Bay Radio – available on all your favorite podcast apps!
+  url: https://smvmt.us/bay-announce
+  text: Tune in to our announcements Signal Chat – an easy way to plug into what
+    is next for Sunrise Bay Area! smvmt.us/bay-announce
   id: podcast2021-01-15
