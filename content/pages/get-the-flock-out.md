@@ -1,7 +1,8 @@
 ---
 title: Get the Flock Out
 url: flockout
-menu: []
+menu:
+  - main
 ---
 ## F﻿UCK ICE - FUCK TRUMP - FUCK FLOCK!
 
