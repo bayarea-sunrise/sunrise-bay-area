@@ -4,11 +4,13 @@ url: flockout
 menu:
   - main
 ---
-## F﻿UCK ICE - FUCK TRUMP - FUCK FLOCK!
+# Get Flock Out of the Bay
 
 B﻿ig Brother Bay Area is LIVE in Oakland, San Francisco & Berkeley.\
 \
 W﻿e can't sugar coat it any longer... the US is a SH*TSHOW rn.....
+
+### W﻿e aren't letting Trump and his ICE-stappo win... Learn more about our plan at our next Flight School training. [smvmt.us/flightschool](https://smvmt.us/flightschool)
 
 {{< wide-image-block image="/img/screenshot-2026-04-08-at-7.21.36 pm.png" >}}
 
