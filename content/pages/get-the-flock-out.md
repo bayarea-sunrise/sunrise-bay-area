@@ -14,4 +14,6 @@ menu:
 
 {{< image-block image="/img/screenshot-2026-04-08-at-9.49.30 pm.png" >}}
 
+{{< image-block image="/img/screenshot-2026-04-08-at-7.22.27 pm.png" >}}
+
 {{< text-block title="W﻿e aren't letting Trump and his ICE-stappo win..." text="Learn more about our plan at our next Flight School training." button-text-1="RSVP for Flight School Training" button-url-1="### [smvmt.us/flightschool](https://smvmt.us/flightschool)" button-text-2="" button-url-2="" >}}
