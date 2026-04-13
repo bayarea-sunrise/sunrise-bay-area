@@ -10,6 +10,6 @@ menu:
 
 {{< wide-image-block image="/img/screenshot-2026-04-08-at-7.21.36 pm.png" >}}
 
-{{< text-block title="S﻿o how do we change that? How can YOU change that?" text="T﻿he bay area is a part of this messed up facist war-machine. The tech billionaire oligarchs that live next door to us fund not only Trump and his heinous crimes against humanity within our borders, at our borders, and abroad - they also fund the technologies that allow MASS VIOLENCE & MASS SURVIELLANCE. But w﻿e aren't letting Trump and his ICE-stappo win...Learn more about our plan at our next Flight School training." button-text-1="RSVP for Flight School Training" button-url-1="https://smvmt.us/flightschool" button-text-2="" button-url-2="" >}}
+{{< text-block title="S﻿o how do we change that? How can YOU change that?" text="T﻿he bay area is a part of this messed up fascist war-machine. The tech billionaire oligarchs that live next door to us fund not only Trump and his heinous crimes against humanity within our borders, at our borders, and abroad - they also fund the technologies that allow MASS VIOLENCE & MASS SURVIELLANCE. But w﻿e aren't letting Trump and his ICE-stappo win...Learn more about our plan at our next Flight School training." button-text-1="RSVP for Flight School Training" button-url-1="https://smvmt.us/flightschool" button-text-2="" button-url-2="" >}}
 
 {{< image-block image="/img/screenshot-2026-04-08-at-9.49.30 pm.png" >}}
