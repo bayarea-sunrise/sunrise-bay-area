@@ -8,20 +8,10 @@ menu:
 
 {{< image-block image="/img/flock-1024x683.png" >}}
 
-![](/img/flock-1024x683.png "Flock cameras are easy to spot with their solar panels.")
-
 {{< wide-image-block image="/img/screenshot-2026-04-08-at-7.21.36 pm.png" >}}
 
-### S﻿o how do we change that? How can YOU change that?
+{{< text-block title="S﻿o how do we change that? How can YOU change that?" text="T﻿he bay area is a part of this messed up facist war-machine. The tech billionaire oligarchs that live next door to us fund not only Trump and his heinous crimes against humanity within our borders, at our borders, and abroad - they also fund the technologies that allow MASS VIOLENCE & MASS SURVIELLANCE." button-text-1="RSVP for Flight School Training" button-url-1="### [smvmt.us/flightschool](https://smvmt.us/flightschool)" button-text-2="" button-url-2="" >}}
 
-T﻿he bay area is a part of this messed up facist war-machine. The tech billionaire oligarchs that live next door to us fund not only Trump and his heinous crimes against humanity within our borders, at our borders, and abroad - they also fund the technologies that allow MASS VIOLENCE & MASS SURVIELLANCE.
+{{< image-block image="/img/screenshot-2026-04-08-at-9.49.30 pm.png" >}}
 
-{{< wide-image-block image="/img/screenshot-2026-04-08-at-9.49.30 pm.png" >}}
-
-### F﻿LOCK
-
-{{< image-block image="/img/screenshot-2026-04-08-at-7.22.40 pm.png" >}}
-
-{{< image-block image="/img/screenshot-2026-04-08-at-7.22.16 pm.png" >}}
-
-### W﻿e aren't letting Trump and his ICE-stappo win... Learn more about our plan at our next Flight School training. [smvmt.us/flightschool](https://smvmt.us/flightschool)
+{{< text-block title="W﻿e aren't letting Trump and his ICE-stappo win..." text="Learn more about our plan at our next Flight School training." button-text-1="RSVP for Flight School Training" button-url-1="### [smvmt.us/flightschool](https://smvmt.us/flightschool)" button-text-2="" button-url-2="" >}}
