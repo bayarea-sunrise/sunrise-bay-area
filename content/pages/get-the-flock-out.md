@@ -4,15 +4,9 @@ url: flockout
 menu:
   - main
 ---
-{{< text-block title="Get Flock Out of the Bay" text="B﻿ig Brother Bay Area is LIVE in Oakland, San Francisco & Berkeley. W﻿e can't sugar coat it any longer... the US is a SH*TSHOW rn..... But we aren't letting Trump and his ICE-stappo win... Learn more about our plan at our next Flight School training." button-text-1="### [smvmt.us/flightschool](https://smvmt.us/flightschool)" button-url-1="" button-text-2="" button-url-2="" >}}
 
-# Get Flock Out of the Bay
 
-B﻿ig Brother Bay Area is LIVE in Oakland, San Francisco & Berkeley.\
-\
-W﻿e can't sugar coat it any longer... the US is a SH*TSHOW rn.....
-
-### W﻿e aren't letting Trump and his ICE-stappo win... Learn more about our plan at our next Flight School training. [smvmt.us/flightschool](https://smvmt.us/flightschool)
+{{< text-block title="Get Flock Out of the Bay" text="B﻿ig Brother Bay Area is LIVE in Oakland, San Francisco & Berkeley. W﻿e can't sugar coat it any longer... the US is a SH*TSHOW rn..... But we aren't letting Trump and his ICE-stappo win... Learn more about our plan at our next Flight School training." button-text-1="RSVP for Flight School Training" button-url-1="### [smvmt.us/flightschool](https://smvmt.us/flightschool)" button-text-2="" button-url-2="" >}}
 
 {{< wide-image-block image="/img/screenshot-2026-04-08-at-7.21.36 pm.png" >}}
 
