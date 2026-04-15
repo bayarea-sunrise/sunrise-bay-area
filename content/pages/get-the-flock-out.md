@@ -4,8 +4,6 @@ url: flockout
 menu:
   - main
 ---
-
-
 {{< text-block title="Get Flock Out of the Bay" text="Flock cameras are being used in the Bay as a tool of mass surveillance by the fascist state. The data captured is being unlawfully accessed by the federal government and ICE to target our immigrant neighbors. That's only the beginning. Come to our flight school trainings to learn more about Flock in depth and what you can do to take action. " button-text-1="RSVP for Flight School Training" button-url-1="https://smvmt.us/flightschool" button-text-2="" button-url-2="" >}}
 
 {{< image-block image="/img/may-day-bay-area-flyer.png" >}}
@@ -14,15 +12,13 @@ menu:
 
 {{< image-block image="/img/flock-1024x683.png" >}}
 
-
-
 {{< text-block title="What's the deal with Flock? " text="Flock cameras are ALPR (automated license plate reader) technology that oversteps just reading license plates. Flock tracks your digital geo-footprint using AI. Even if you’re masked, they can ID you and follow you on the street by a scratch on your car, the clothes you’re wearing…all the way to your home. While there is limited evidence that ALPR technology impacts crime rate or safety, there is a mountain of evidence of it being abused by ICE, the police, and hackers. " button-text-1="" button-url-1="" button-text-2="" button-url-2="" >}}
 
 {{< text-block title="Notoriously Unsecured" text="Flock’s cameras are notoriously unsecured. At one point, they forgot to set the password for 60+ cameras, meaning anyone could download 30 days worth of video archive, change settings, see log files, and run diagnostics.  Flock is not audited by an independent security firm, which should be standard for companies that hoard national surveillance data." button-text-1="" button-url-1="" button-text-2="" button-url-2="" >}}
 
 {{< image-block image="/img/screenshot-2026-04-14-at-9.36.15 pm.png" >}}
 
-{{< parallax-block image="/img/may-day-bay-area-flyer-3.png" >}}
+{{< parallax-block image="/img/2.png" >}}
 
 {{< text-block title="S﻿o how do we change that? How can YOU change that?" text="T﻿he bay area is a part of this messed up fascist war-machine. The tech billionaire oligarchs that live next door to us fund not only Trump and his heinous crimes against humanity within our borders, at our borders, and abroad - they also fund the technologies that allow MASS VIOLENCE & MASS SURVIELLANCE. But w﻿e aren't letting Trump and his ICE-stappo win...Learn more about our plan at our next Flight School training." button-text-1="RSVP for Flight School Training" button-url-1="https://smvmt.us/flightschool" button-text-2="" button-url-2="" >}}
 
