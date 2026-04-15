@@ -4,37 +4,6 @@ url: flockout
 menu:
   - main
 ---
-#### **Upcoming Public Comment Opportunities** 
-
-**[Alameda County Board of Supervisors](https://bos.alamedacountyca.gov/broadcast/)**
-
-**Tuesday, April 21, 2026 at 3:00pm**
-
-**In Person:**\
-Board Chambers, 1221 Oak Street, Room 200, 5th Floor, Oakland, CA 94612
-
-**Virtual Comment:**\
-Join via Zoom link during the meeting time at\
-<https://zoom.us/j/84842910941> 
-
-Webinar ID: 848 4291 0941
-
-**Phone Comment:**\
-Call one of the Toll Free numbers below at the noticed meeting time at\
-833-548-0282 or 877-853-5247 or 888-788 0099 or 833-548 0276.\
-To raise your hand to speak, dial *9. When you are called to speak, the host will unmute you to enable you to speak.
-
-**E-Comment:**\
-Send written comments to [CBS@acgov.org](mailto:CBS@acgov.org) at least 24 hours before the meeting to be shared with each Supervisor. If you are calling in, dial *9 to raise your hand to speak. When you are called to speak the host will unmute you to enable you to speak.
-
-
-
-
-
-
-
-
-
 
 
 {{< text-block title="Get Flock Out of the Bay" text="Flock cameras are being used in the Bay as a tool of mass surveillance by the fascist state. The data captured is being unlawfully accessed by the federal government and ICE to target our immigrant neighbors. That's only the beginning. Come to our flight school trainings to learn more about Flock in depth and what you can do to take action. " button-text-1="RSVP for Flight School Training" button-url-1="https://smvmt.us/flightschool" button-text-2="" button-url-2="" >}}
