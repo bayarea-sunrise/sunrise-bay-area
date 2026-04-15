@@ -6,19 +6,6 @@ menu:
 ---
 {{< text-block title="Get Flock Out of the Bay" text="Flock cameras are being used in the Bay as a tool of mass surveillance by the fascist state. The data captured is being unlawfully accessed by the federal government and ICE to target our immigrant neighbors. That's only the beginning. Come to our flight school trainings to learn more about Flock in depth and what you can do to take action. " button-text-1="RSVP for Flight School Training" button-url-1="https://smvmt.us/flightschool" button-text-2="" button-url-2="" >}}
 
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Get the Flock Out</title>
-</head>
-<body>
-    <h1>This is a Main Heading</h1>
-    <p>This is the body text of my web page.</p>
-</body>
-</html>
-```
-
 {{< image-block image="/img/flock-1024x683.png" >}}
 
 {{< wide-image-block image="/img/screenshot-2026-04-08-at-7.21.36 pm.png" >}}
