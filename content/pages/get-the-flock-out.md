@@ -4,7 +4,9 @@ url: flockout
 menu:
   - main
 ---
-{{< text-block title="We are watching the watchers" text="Flock cameras are being used in the Bay as a tool of mass surveillance by the fascist state!!! Billionaires have funded 500+ cameras to be put in YOUR neighborhoods, watching your. every. move. We're flipping the script. They want to surveil us ? We're going to watch them. The data captured is being unlawfully accessed by the federal government and ICE to target our immigrant neighbors. That's only the beginning. Come to our Billionaire Watch Party to demonstrate dissent, attend Flight School to learn more, or join in on one of our many National Week Against ALPRs events in the bay area!" button-text-1="RSVP for the Watch Party" button-url-1="partiful.com" button-text-2="RSVP for Flight School Training" button-url-2="https://smvmt.us/flightschool" >}}
+{{< text-block title="WATCHING the WATCHERS" text="Billionaires have funded 500+ cameras to be put in YOUR neighborhoods, watching your. every. move. Why? They and the fascist state want to tighten their grip, their control on our lives. We're flipping the script. They want to surveil us ? We're going to watch them. The data captured is being unlawfully accessed by the federal government and ICE to target our immigrant neighbors. That's only the beginning. Come to our Billionaire Watch Party to demonstrate dissent, attend Flight School to learn more, or join in on one of our many National Week Against ALPRs events in the bay area!" button-text-1="RSVP for the Watch Party" button-url-1="partiful.com" button-text-2="RSVP for Flight School Training" button-url-2="https://smvmt.us/flightschool" >}}
+
+{{< wide-image-block image="/img/movie-premiere-8-x-8-in-.png" >}}
 
 {{< image-block image="/img/may-day-bay-area-flyer.png" >}}
 
