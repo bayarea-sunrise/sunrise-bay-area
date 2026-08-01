@@ -4,10 +4,10 @@ url: flockout
 menu:
   - main
 ---
-{{< text-block title="WATCHING the WATCHERS" text="Billionaires have funded 500+ cameras to be put in YOUR neighborhoods, watching your. every. move. Why? They and the fascist state want to tighten their grip, their control on our lives. We're flipping the script. They want to surveil us ? We're going to watch them. The data captured is being unlawfully accessed by the federal government and ICE to target our immigrant neighbors. That's only the beginning. Come to our Billionaire Watch Party to demonstrate dissent, attend Flight School to learn more, or join in on one of our many National Week Against ALPRs events in the bay area!" button-text-1="RSVP for the Watch Party" button-url-1="partiful.com" button-text-2="RSVP for Flight School Training" button-url-2="https://smvmt.us/flightschool" >}}
+
 
 {{< wide-image-block image="/img/movie-premiere-8-x-8-in-.png" >}}
-
+{{< text-block title="WATCHING the WATCHERS" text="Billionaires have funded 500+ cameras to be put in YOUR neighborhoods, watching your. every. move. Why? They and the fascist state want to tighten their grip, their control on our lives. We're flipping the script. They want to surveil us ? We're going to watch them. The data captured is being unlawfully accessed by the federal government and ICE to target our immigrant neighbors. That's only the beginning. Come to our Billionaire Watch Party to demonstrate dissent, attend Flight School to learn more, or join in on one of our many National Week Against ALPRs events in the bay area!" button-text-1="RSVP for the Watch Party" button-url-1="https://partiful.com/e/sqiZe0yFbPmLV9WJasRm" button-text-2="RSVP for Flight School Training" button-url-2="https://smvmt.us/flightschool" >}}
 {{< image-block image="/img/may-day-bay-area-flyer.png" >}}
 
 {{< parallax-block image="/img/screenshot-2026-04-08-at-7.21.36 pm.png" >}}
@@ -26,6 +26,6 @@ menu:
 
 {{< text-block title="The risks" text="Flock has repeatedly violated agreements with cities, sharing data with out-of-state agencies like ICE. Agencies that legally have access often still share data with unapproved agencies. This data is useful to ICE because they can identify the routines of innocent individuals. Additionally we also see abuse by police officers who use the flock database for personal reasons. We don’t know about you, but none of this makes us feel “safe.” " button-text-1="" button-url-1="" button-text-2="" button-url-2="" >}}
 
-{{< text-block title="S﻿o how do we change that? How can YOU change that?" text="T﻿he bay area is a part of this fascist war-machine. The tech billionaire oligarchs that live next door to us fund not only Trump and his heinous crimes against humanity within our borders, at our borders, and abroad - they also fund the technologies that allow MASS VIOLENCE & MASS SURVIELLANCE. But w﻿e aren't letting Trump and his ICE-stappo win...Learn more about our plan at our next Flight School training." button-text-1="RSVP for our Billionaire Watch Party" button-url-1="" button-text-2="RSVP for Flight School" button-url-2="https://smvmt.us/flightschool" >}}
+{{< text-block title="S﻿o how do we change that? How can YOU change that?" text="T﻿he bay area is a part of this fascist war-machine. The tech billionaire oligarchs that live next door to us fund not only Trump and his heinous crimes against humanity within our borders, at our borders, and abroad - they also fund the technologies that allow MASS VIOLENCE & MASS SURVIELLANCE. But w﻿e aren't letting Trump and his ICE-stappo win...Learn more about our plan at our next Flight School training." button-text-1="RSVP for our Billionaire Watch Party" button-url-1="https://partiful.com/e/sqiZe0yFbPmLV9WJasRm" button-text-2="RSVP for Flight School" button-url-2="https://smvmt.us/flightschool" >}}
 
 {{< image-block image="/img/screenshot-2026-04-08-at-9.49.30 pm.png" >}}
