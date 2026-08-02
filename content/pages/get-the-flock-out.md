@@ -42,7 +42,7 @@ menu:
   </div>
 
   <p style="font-size:20px; text-align: center;">So the billionaires feel entitled to surveil us? Well, we're flipping the script.<strong>We're going to watch them.</strong></p> 
-  <p>Get involved:</p> 
+  <p>Come get involved:</p> 
   <ul> 
     <li><a href="https://partiful.com/e/sqiZe0yFbPmLV9WJasRm">Come to our Billionaire Watch Party.</a></li> 
     <li><a href="https://smvmt.us/flightschool">Get Trained on our Flock Campaign.</a></li> 
