@@ -4,13 +4,32 @@ url: flockout
 menu:
   - main
 ---
-{{< wide-image-block image="/img/movie-premiere-8-x-8-in-.png" >}}
+# Help Us Get Flock out of the Bay!!
 
-{{< text-block title="WATCHING the WATCHERS" text="Billionaires have funded 500+ cameras to be put in YOUR neighborhoods, watching your. every. move. Why? They and the fascist state want to tighten their grip, their control on *our* lives. We're flipping the script. They want to surveil us? We're going to watch them. Flock is one of the key ways billionaires and Trump's regime are collecting information on our communities. The data captured is being unlawfully accessed by the federal government and ICE to target our immigrant neighbors. That's only the beginning. Come to our Billionaire Watch Party to demonstrate dissent, attend Flight School to learn more, or join in on one of our many National Week Against ALPRs events in the bay area!" button-text-1="RSVP for the Watch Party" button-url-1="https://partiful.com/e/sqiZe0yFbPmLV9WJasRm" button-text-2="RSVP for Flight School Training" button-url-2="https://smvmt.us/flightschool" >}}
+<img src="/img/flock-landing.png" alt="" style="max-width: 500px; width: 100%; height: auto;">
 
-{{< image-block image="/img/may-day-bay-area-flyer.png" >}}
+Flock surveillance cameras are putting us all at risk:
 
-{{< parallax-block image="/img/screenshot-2026-04-08-at-7.21.36 pm.png" >}}
+* **Privacy**: Flock cameras read your lisence plate to track your movements and store the data for long periods of time, creating a detailed record of your location history.
+* **Easily Abused**: Data from Flock cameras has led to [wrongful arrests](https://www.newsobserver.com/news/state/north-carolina/article287381160.html), profiling, and [stalking ex-partners](https://www.kwch.com/2022/10/31/kechi-police-lieutenant-arrested-using-police-technology-stalk-wife/) by police officers.
+* **Limited Benefits**: There's no substantial evidence that ALPRs effectively prevent crime, despite [Flock's unethical attempts](https://www.404media.co/researcher-who-oversaw-flock-surveillance-study-now-has-concerns-about-it/) to prove otherwise.
+* **ICE Access**: SFPD claims federal agencies don't have access to the Flock data, but they've been [repeatedly caught](https://missionlocal.org/2026/06/federal-agencies-sf-surveillance-flock-data-audit/) not upholding this promise.
+
+**San Francisco is home to 500+ flock cameras, and the local billionaires spent millions of dollars to put them there.** Why? They and the fascist state want to tighten their grip, their control on *our* lives.
+
+We're flipping the script. They want to surveil us? We're going to watch them. Flock is one of the key ways billionaires and Trump's regime are collecting information on our communities.
+
+## What Can You Do?
+
+* Come to our Billionaire Watch Party to give the wealthy a taste of their own medicine.
+* Attend [Flight School](https://smvmt.us/flightschool) to learn more about our campaign to get Flock out of the Bay.
+* Join the [National Week Against ALPRs](https://noalprs.com/)!
+
+{{< text-block button-text-1="RSVP for our Billionaire Watch Party to give the wealthy a taste of their own medicine." button-url-1="https://partiful.com/e/sqiZe0yFbPmLV9WJasRm">}}
+
+{{< text-block button-text-1="Attend Flight School to learn how we'll get Flock out of the Bay." button-url-1="https://smvmt.us/flightschool">}}
+
+{{< text-block button-text-1="Join the [National Week Against ALPRs." button-url-1="https://noalprs.com/">}}
 
 {{< image-block image="/img/flock-1024x683.png" >}}
 
