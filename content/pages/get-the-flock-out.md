@@ -9,8 +9,8 @@ menu:
   li { font-size: 18px; margin-bottom: 10px; } 
   ul { margin-left: 40px; margin-right: 40px; } 
   p { margin: 20px; } 
-  h2 {margin-bottom: 20px; margin-top: 50px; }
-  h1 {margin-bottom: 20px; margin-top: 10px; color: black; }
+  h2 {margin: 20px; margin-bottom: 20px; margin-top: 50px; }
+  h1 {margin: 20px; margin-bottom: 20px; margin-top: 10px; color: black; }
 </style> 
 
 <div style="max-width: 650px; margin: 0 auto;"> 
@@ -43,7 +43,13 @@ menu:
 
   <p style="font-size:20px; text-align: center;">So the billionaires feel entitled to surveil us? Well, we're flipping the script.<strong> We're going to watch them.</strong></p> 
 
+  <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 30px;"> 
   <a href="https://partiful.com/e/sqiZe0yFbPmLV9WJasRm" class="btn btn-primary"><span>Come to our Billionaire Watch Party.</span></a>
+  </div>
+  <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 30px;"> 
   <a href="https://smvmt.us/flightschool" class="btn btn-primary"><span>Get Trained on our Flock Campaign.</span></a>
+  </div>
+  <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 30px;"> 
   <a href="https://noalprs.com/" class="btn btn-primary"><span>Join the National Week Against ALPRs!</span></a>
+  </div>
 </div>
