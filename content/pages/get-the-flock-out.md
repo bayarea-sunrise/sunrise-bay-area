@@ -44,12 +44,12 @@ menu:
   <p style="font-size:20px; text-align: center;">So the billionaires feel entitled to surveil us? Well, we're flipping the script.<strong> We're going to watch them.</strong></p> 
 
   <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 30px;"> 
-  <a href="https://partiful.com/e/sqiZe0yFbPmLV9WJasRm" class="btn btn-primary"><span>Come to our Billionaire Watch Party.</span></a>
+  <a href="https://partiful.com/e/sqiZe0yFbPmLV9WJasRm" class="btn btn-primary" style="width: 500px;"><span>Come to our Billionaire Watch Party.</span></a>
   </div>
   <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 30px;"> 
-  <a href="https://smvmt.us/flightschool" class="btn btn-primary"><span>Get Trained on our Flock Campaign.</span></a>
+  <a href="https://smvmt.us/flightschool" class="btn btn-primary" style="width: 500px;"><span>Get Trained on our Flock Campaign.</span></a>
   </div>
   <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 30px;"> 
-  <a href="https://noalprs.com/" class="btn btn-primary"><span>Join the National Week Against ALPRs!</span></a>
+  <a href="https://noalprs.com/" class="btn btn-primary" style="width: 500px;"><span>Join the National Week of Action</span></a>
   </div>
 </div>
