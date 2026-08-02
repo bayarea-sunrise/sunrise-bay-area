@@ -4,9 +4,11 @@ url: flockout
 menu:
   - main
 ---
-# Help Us Get Flock out of the Bay!!
+<div style="max-width: 700px; margin: 0 auto;">
 
-<img src="/img/flock-landing.png" alt="" style="max-width: 500px; width: 100%; height: auto;">
+## Help Us Get Flock out of the Bay!!
+
+{{< image-block image="/img/flock-landing-1-.png" >}}
 
 Flock surveillance cameras are putting us all at risk:
 
@@ -48,3 +50,5 @@ We're flipping the script. They want to surveil us? We're going to watch them. F
 {{< text-block title="S﻿o how do we change that? How can YOU change that?" text="T﻿he bay area is a part of this fascist war-machine. The tech billionaire oligarchs that live next door to us fund not only Trump and his heinous crimes against humanity within our borders, at our borders, and abroad - they also fund the technologies that allow MASS VIOLENCE & MASS SURVIELLANCE. But w﻿e aren't letting Trump and his ICE-stappo win...Learn more about our plan at our next Flight School training." button-text-1="RSVP for our Billionaire Watch Party" button-url-1="https://partiful.com/e/sqiZe0yFbPmLV9WJasRm" button-text-2="RSVP for Flight School" button-url-2="https://smvmt.us/flightschool" >}}
 
 {{< image-block image="/img/screenshot-2026-04-08-at-9.49.30 pm.png" >}}
+
+<﻿/div>
