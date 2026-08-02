@@ -25,7 +25,7 @@ menu:
   <p style="font-size:20px; text-align: center;"><strong>San Francisco is home to 500+ flock cameras, and our local billionaires spent millions of dollars to put them there.</strong></p> 
 
 
-  <p>Here's what at stake:</p> 
+  <p>Here's what's at stake:</p> 
   <ul> 
     <li><strong>Privacy</strong>: Flock cameras read your license plate to track your movements and store the data for long periods of time, creating a detailed record of your location history.</li> 
     <li><strong>Officer Abuse</strong>: Data from Flock cameras has led to <a href="https://www.newsobserver.com/news/state/north-carolina/article287381160.html">wrongful arrests</a>, profiling, and <a href="https://www.kwch.com/2022/10/31/kechi-police-lieutenant-arrested-using-police-technology-stalk-wife/">stalking ex-partners</a> by police officers.</li> 
