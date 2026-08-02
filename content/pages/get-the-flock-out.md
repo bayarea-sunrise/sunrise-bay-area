@@ -50,6 +50,6 @@ menu:
   <a href="https://smvmt.us/flightschool" class="btn btn-primary" style="width: 500px;"><span>Get Trained on our Flock Campaign.</span></a>
   </div>
   <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 30px;"> 
-  <a href="https://noalprs.com/" class="btn btn-primary" style="width: 500px;"><span>Join the National Week of Action</span></a>
+  <a href="https://noalprs.com/" class="btn btn-primary" style="width: 500px;"><span>Join the National Week of Action.</span></a>
   </div>
 </div>
