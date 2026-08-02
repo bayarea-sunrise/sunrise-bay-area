@@ -11,7 +11,7 @@ menu:
   p { margin: 20px; } 
 </style> 
 
-<div style="max-width: 700px; margin: 0 auto;"> 
+<div style="max-width: 650px; margin: 0 auto;"> 
   <h2>Get Flock out of the Bay!!</h2> 
   
   <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 30px;"> 
