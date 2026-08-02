@@ -26,7 +26,7 @@ m﻿argin: 20px;
 
 {{< image-block image="/img/flock-landing-2-.png" >}}
 
-### Flock surveillance cameras are putting at risk
+### Flock Cameras are Putting Us at Risk
 
 * **Privacy**: Flock cameras read your lisence plate to track your movements and store the data for long periods of time, creating a detailed record of your location history.
 * **Easily Abused**: Data from Flock cameras has led to [wrongful arrests](https://www.newsobserver.com/news/state/north-carolina/article287381160.html), profiling, and [stalking ex-partners](https://www.kwch.com/2022/10/31/kechi-police-lieutenant-arrested-using-police-technology-stalk-wife/) by police officers.
