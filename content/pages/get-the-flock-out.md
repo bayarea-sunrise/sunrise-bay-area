@@ -25,12 +25,12 @@ menu:
   <p style="font-size:20px; text-align: center;"><strong>San Francisco is home to 500+ flock cameras, and our local billionaires spent millions of dollars to put them there.</strong></p> 
 
 
-  <p>Here's what at stake:</p> 
+  <p>Here's what's at stake:</p> 
   <ul> 
     <li><strong>Privacy</strong>: Flock cameras read your license plate to track your movements and store the data for long periods of time, creating a detailed record of your location history.</li> 
+    <li><strong>ICE Access</strong>: SFPD claims federal agencies don't have access to Flock data, but they've been <a href="https://missionlocal.org/2026/06/federal-agencies-sf-surveillance-flock-data-audit/">repeatedly caught</a> not upholding this promise.</li> 
     <li><strong>Officer Abuse</strong>: Data from Flock cameras has led to <a href="https://www.newsobserver.com/news/state/north-carolina/article287381160.html">wrongful arrests</a>, profiling, and <a href="https://www.kwch.com/2022/10/31/kechi-police-lieutenant-arrested-using-police-technology-stalk-wife/">stalking ex-partners</a> by police officers.</li> 
     <li><strong>Limited Benefits</strong>: There's no substantial evidence that ALPRs effectively prevent crime, despite <a href="https://www.404media.co/researcher-who-oversaw-flock-surveillance-study-now-has-concerns-about-it/">Flock's unethical attempts</a> to prove otherwise.</li> 
-    <li><strong>ICE Access</strong>: SFPD claims federal agencies don't have access to the Flock data, but they've been <a href="https://missionlocal.org/2026/06/federal-agencies-sf-surveillance-flock-data-audit/">repeatedly caught</a> not upholding this promise.</li> 
   </ul> 
 
   <h2>What Can You Do?</h2> 
