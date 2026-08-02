@@ -22,7 +22,7 @@ menu:
 
   <h2>Flock Cameras are Putting Us All at Risk</h2>
 
-  <p style="font-size:20px; text-align: center;"><strong>San Francisco is home to 500+ Flock cameras, and our local billionaires spent millions to put them there.</strong></p> 
+  <p style="font-size:20px; text-align: center;"><strong>The Bay Area is home to <a href="https://deflock.org/">thousands</a> of Flock cameras, and our local billionaires <a href="https://missionlocal.org/2026/07/san-francisco-police-surveillance-center-drones-salesforce/">spent millions</a> to put them there.</strong></p> 
 
 
   <p>Here's what's at stake:</p> 
