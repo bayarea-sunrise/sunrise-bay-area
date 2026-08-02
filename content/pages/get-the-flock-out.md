@@ -6,23 +6,26 @@ menu:
 ---
 <style> 
   strong { font-weight: bold; } 
-  li { font-size: 18px; } 
-  ul { margin: 40px; } 
+  li { font-size: 18px; margin-bottom: 10px; } 
+  ul { margin-left: 40px; margin-right: 40px; } 
   p { margin: 20px; } 
   h2 {margin-bottom: 20px; }
+  h1 {margin-bottom: 20px; margin-top: 10px; color: black; }
 </style> 
 
 <div style="max-width: 650px; margin: 0 auto;"> 
-  <h2>Help Us Fight Flock</h2> 
+  <h1>Help Us Fight Flock</h1> 
   
   <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 30px;"> 
     <img src="/img/flock-landing-2-.png" alt="Flock Camera Surveillance" style="max-width: 500px; width: 100%; height: auto;"> 
   </div> 
 
-  <h2>Flock Cameras are Putting Us at Risk</h2>
+  <h2>Flock Cameras are Putting Us All at Risk</h2>
 
-  <p><strong>San Francisco is home to 500+ flock cameras, and our local billionaires spent millions of dollars to put them there. Here's what at stake:</strong></p> 
+  <p style="font-size:20px; text-align: center;"><strong>San Francisco is home to 500+ flock cameras, and our local billionaires spent millions of dollars to put them there.</strong></p> 
 
+
+  <p>Here's what at stake:</p> 
   <ul> 
     <li><strong>Privacy</strong>: Flock cameras read your license plate to track your movements and store the data for long periods of time, creating a detailed record of your location history.</li> 
     <li><strong>Officer Abuse</strong>: Data from Flock cameras has led to <a href="https://www.newsobserver.com/news/state/north-carolina/article287381160.html">wrongful arrests</a>, profiling, and <a href="https://www.kwch.com/2022/10/31/kechi-police-lieutenant-arrested-using-police-technology-stalk-wife/">stalking ex-partners</a> by police officers.</li> 
@@ -38,7 +41,8 @@ menu:
     </a>
   </div>
 
-  <p>So the billionaires feel entitled to surveil us? Well, we're flipping the script: we're going to watch them. Sign up below:</p> 
+  <p style="font-size:20px; text-align: center;">So the billionaires feel entitled to surveil us? Well, we're flipping the script.<strong>We're going to watch them.</strong></p> 
+  <p>Come get involved:</p> 
   <ul> 
     <li><a href="https://partiful.com/e/sqiZe0yFbPmLV9WJasRm">Come to our Billionaire Watch Party.</a></li> 
     <li><a href="https://smvmt.us/flightschool">Get Trained on our Flock Campaign.</a></li> 
