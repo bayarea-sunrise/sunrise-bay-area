@@ -24,7 +24,9 @@ m﻿argin: 20px;
 
 ## Help Us Get Flock out of the Bay!!
 
-{{< image-block image="/img/flock-landing-2-.png" >}}
+<div style="display: flex; justify-content: center; align-items: center;">
+<img src="/img/flock-landing-2-.png" alt="" style="max-width: 700px; width: 100%; height: auto;">
+</div>
 
 ### Flock Cameras are Putting Us at Risk
 
