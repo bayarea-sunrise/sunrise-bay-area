@@ -4,13 +4,29 @@ url: flockout
 menu:
   - main
 ---
+<style>
+strong {
+font-weight: bold;
+}﻿
+l﻿i {
+f﻿ont-size: 18px;
+}﻿
+
+ul {
+m﻿argin: 40px;
+}﻿
+p﻿ {
+m﻿argin: 20px;
+}﻿
+</style> 
+
 <div style="max-width: 700px; margin: 0 auto;">
 
 ## Help Us Get Flock out of the Bay!!
 
-{{< image-block image="/img/flock-landing-1-.png" >}}
+{{< image-block image="/img/flock-landing-2-.png" >}}
 
-Flock surveillance cameras are putting us all at risk:
+### Flock surveillance cameras are putting at risk
 
 * **Privacy**: Flock cameras read your lisence plate to track your movements and store the data for long periods of time, creating a detailed record of your location history.
 * **Easily Abused**: Data from Flock cameras has led to [wrongful arrests](https://www.newsobserver.com/news/state/north-carolina/article287381160.html), profiling, and [stalking ex-partners](https://www.kwch.com/2022/10/31/kechi-police-lieutenant-arrested-using-police-technology-stalk-wife/) by police officers.
@@ -22,10 +38,6 @@ Flock surveillance cameras are putting us all at risk:
 We're flipping the script. They want to surveil us? We're going to watch them. Flock is one of the key ways billionaires and Trump's regime are collecting information on our communities.
 
 ## What Can You Do?
-
-* Come to our Billionaire Watch Party to give the wealthy a taste of their own medicine.
-* Attend [Flight School](https://smvmt.us/flightschool) to learn more about our campaign to get Flock out of the Bay.
-* Join the [National Week Against ALPRs](https://noalprs.com/)!
 
 {{< text-block button-text-1="RSVP for our Billionaire Watch Party to give the wealthy a taste of their own medicine." button-url-1="https://partiful.com/e/sqiZe0yFbPmLV9WJasRm">}}
 
@@ -40,8 +52,6 @@ We're flipping the script. They want to surveil us? We're going to watch them. F
 {{< text-block title="Notoriously Insecure" text="Flock’s cameras are notoriously insecure. At one point they forgot to set the password for 60+ cameras, meaning anyone could download 30 days worth of video archive, change settings, see log files, and run diagnostics. Flock is not audited by an independent security firm, which should be standard for companies that hoard national surveillance data. So not only is Flock collecting a ton of data on us all, but they don’t have the technical wherewithal to secure it. Cue alarm bells going crazy." button-text-1="" button-url-1="" button-text-2="" button-url-2="" >}}
 
 {{< image-block image="/img/screenshot-2026-04-14-at-9.36.15 pm.png" >}}
-
-{{< parallax-block image="/img/2.png" >}}
 
 {{< image-block image="/img/screenshot-2026-04-14-at-10.26.04 pm.png" >}}
 
