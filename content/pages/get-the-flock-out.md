@@ -9,7 +9,7 @@ menu:
   li { font-size: 18px; margin-bottom: 10px; } 
   ul { margin-left: 40px; margin-right: 40px; } 
   p { margin: 20px; } 
-  h2 {margin-bottom: 20px; }
+  h2 {margin-bottom: 20px; margin-top: 50px; }
   h1 {margin-bottom: 20px; margin-top: 10px; color: black; }
 </style> 
 
@@ -41,11 +41,9 @@ menu:
     </a>
   </div>
 
-  <p style="font-size:20px; text-align: center;">So the billionaires feel entitled to surveil us? Well, we're flipping the script.<strong>We're going to watch them.</strong></p> 
-  <p>Come get involved:</p> 
-  <ul> 
-    <li><a href="https://partiful.com/e/sqiZe0yFbPmLV9WJasRm">Come to our Billionaire Watch Party.</a></li> 
-    <li><a href="https://smvmt.us/flightschool">Get Trained on our Flock Campaign.</a></li> 
-    <li><a href="https://noalprs.com/">Join the National Week Against ALPRs!</a></li>
-  </ul> 
+  <p style="font-size:20px; text-align: center;">So the billionaires feel entitled to surveil us? Well, we're flipping the script.<strong> We're going to watch them.</strong></p> 
+
+  <a href="https://partiful.com/e/sqiZe0yFbPmLV9WJasRm" class="btn btn-primary"><span>Come to our Billionaire Watch Party.</span></a>
+  <a href="https://smvmt.us/flightschool" class="btn btn-primary"><span>Get Trained on our Flock Campaign.</span></a>
+  <a href="https://noalprs.com/" class="btn btn-primary"><span>Join the National Week Against ALPRs!</span></a>
 </div>
