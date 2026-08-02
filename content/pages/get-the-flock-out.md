@@ -35,6 +35,7 @@ menu:
   <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 30px;"> 
     <a href="https://partiful.com/e/sqiZe0yFbPmLV9WJasRm" target="_blank" rel="noopener noreferrer" style="display: block; width: 100%; max-width: 500px; text-decoration: none;">
       <img src="/img/movie-premiere-8-x-8-in-.png" alt="Flock Camera Surveillance" style="width: 100%; height: auto; display: block;">
+    </a>
   </div>
 
   <p>So the billionaires feel entitled to surveil us? Well, we're flipping the script: we're going to watch them. Sign up below:</p> 
