@@ -28,7 +28,9 @@ git submodule update
 ```
 </details>
 
-This project uses [Hugo and Netlify CMS](https://www.netlifycms.org/docs/hugo/) for development and content management.
+This project uses [Hugo](https://gohugo.io/) to generate the website. Netlify CMS remains
+available in the repository for future maintainers, but is currently disabled on deployed
+builds so that `/admin` is not publicly accessible.
 
 [Hugo](https://gohugo.io/) is a static site generator. For Mac users, it can be installed from your command line with:
 
@@ -46,13 +48,15 @@ hugo server
 
 Visit the site at http://localhost:1313.
 
-## Content Management
+To create a production-style build without publishing the CMS files, run:
 
-Content management is currently provided by [Netlify CMS](https://www.netlifycms.org/). This allows developers and non-developers alike to manage content in a simple and version-controlled way.
+```
+./bin/build
+```
 
-Locally, you can explore Netlify CMS by running the project and visiting `/admin`.
-
-If you have write-access to this organization, you can edit the content to the live site via [sunrisebayarea.org/admin](https://sunrisebayarea.org/admin).
+The CMS source is retained in `static/admin/` and the `auth` submodule. To temporarily
+publish it again for maintenance, run `hugo` instead of `./bin/build`; do not deploy
+that output unless the CMS is intentionally being re-enabled.
 
 ## Deployment
 

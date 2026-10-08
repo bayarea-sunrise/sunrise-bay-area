@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# The shared theme still contains legacy CMS assets. Do not publish them.
+hugo "$@"
+rm -rf public/admin

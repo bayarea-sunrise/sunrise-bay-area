@@ -2,44 +2,52 @@
 title: Sunrise Bay Area
 mastheadImage: /img/splashpage-grey.png
 bannerWelcome: Join the movement for a livable future
-joinUrl: https://docs.google.com/forms/d/e/1FAIpQLSfbWOA9jy53mDAzZUX2NrDGSAzlIpGcnsekM950UeYvR4yM4A/viewform
-joinText: Join Sunrise Bay Area
+joinUrl: https://smvmt.us/bay-announce
+joinText: Join Sunrise Bay Area (Signal Announcements Chat)
 ---
-<div class="col col-12">
-  <h1 style="color: #33342e" >Featured Campaigns</h1>
-</div> 
-
-{{< text-block title="Wildfire Mutual Aid" text="The goal of this campaign is to organize mutual aid and other forms of lasting support for communities most impacted by the fires, smoke, and extreme heat. We can support each other through the fire/heat season and reduce the harmful health impacts with effective mutual aid." button-text-1="Learn More" button-url-1="/wildfire" button-text-2="" button-url-2="" >}}
-
-{{< text-block title="Energy Resilience" text="Energy is a human right, and we must fight for a world in which nobody faces the threat of power shutoff, whether due to wildfire risk, their inability to pay, or where they live. This work, in partnership with East Bay Clean Power Alliance, is aimed at furthering energy democracy locally in the East Bay, while building the broader movement for utility justice at the state and national level." button-text-1="Learn More" button-url-1="/eastbayenergy" button-text-2="" button-url-2="" >}}
-
-{{< text-block title="Who We Are" text="We are the Bay Area hub of Sunrise Movement. Sunrise is a youth-led movement to stop climate change and create millions of good jobs in the process.​ We're building a movement of young people to make climate change an urgent priority across America, end the corrupting influence of fossil fuel executives on our politics, and elect leaders who stand up for the health and wellbeing of all people. We work to pass Green New Deal legislation at the local, state, and federal level that addresses climate change while ensuring that communities on the front lines of this crisis, including fossil fuel workers, are not left behind." button-text-1="Learn About The Movement" button-url-1="https://www.sunrisemovement.org/about" button-text-2="Learn About The Green New Deal" button-url-2="https://www.sunrisemovement.org/green-new-deal" >}}
-
-{{< fb-block title="California Just Transition and the Green New Deal" url="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FBayAreaSunrise%2Fvideos%2F800272823709811%2F&show_text=0&width=476" >}}
-
-{{< parallax-block image="/img/fire_banner.png" >}}
-
-{{< text-block title="What We Do" text="We’re making the climate crisis a decisive issue in the 2020 election by mobilizing millions, turning up the heat, and forcing the media to tell our story: our future is at stake, and we demand a real plan for addressing the climate crisis. As a local hub, Sunrise Bay Area is one of many in-person communities across this country making this movement real. We organize nonviolent direct actions, pressure local politicians, knock doors to get out the vote, make art, host trainings, and have a lot of fun! Check out our events to see how you can get involved in building a livable future for the Bay Area." button-text-1="" button-url-1="" button-text-2="" button-url-2="" >}}
-
+<div class="col col-12 col-lg-6">
+  <h2>Who We Are</h2>
+  <p>We are the Bay Area hub of Sunrise Movement. Sunrise is a youth-led movement to stop climate change and create millions of good jobs in the process.​ We're building a movement of young people to make climate change an urgent priority across America, end the corrupting influence of fossil fuel executives on our politics, and elect leaders who stand up for the health and wellbeing of all people. We work to pass Green New Deal legislation at the local, state, and federal level that addresses climate change while ensuring that communities on the front lines of this crisis, including fossil fuel workers, are not left behind.</p>
+  <div class="btn-group-vertical">
+    <a class="btn btn-primary" href="https://www.sunrisemovement.org/about" target="_blank" rel="noreferrer">Learn About The Movement</a>
+    <a class="btn btn-primary" href="https://www.sunrisemovement.org/green-new-deal" target="_blank" rel="noreferrer">Learn About The Green New Deal</a>
+  </div>
+</div>
+<div class="col col-12 col-lg-6">
+  <div class="video-container">
+    <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FBayAreaSunrise%2Fvideos%2F800272823709811%2F&show_text=0&width=476" width="400" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" title="California Just Transition and the Green New Deal"></iframe>
+  </div>
+</div>
+<div class="parallax" style="background-image: url('/img/fire_banner.png')"></div>
+<div class="col col-12 col-lg-6">
+  <h2>What We Do</h2>
+  <p>Our future is at stake, and we demand a real plan for addressing the climate crisis. As a local hub, Sunrise Bay Area is one of many in-person communities across this country making this movement real. We organize nonviolent direct actions, pressure local politicians, knock doors to get out the vote, make art, host trainings, and have a lot of fun! Check out our events to see how you can get involved in building a livable future for the Bay Area.</p>
+</div>
 <div class="col col-12 col-lg-6">
   <iframe class="calendar" src="https://calendar.google.com/calendar/embed?title=Sunrise%20Bay%20Area%20Events&amp;src=sunrisemovement.org_5hjrpci2cqu30orbhfj1l23bck%40group.calendar.google.com&amp;color=%23AB8B00&amp;src=sunrisemovement.org_p247h08c9322tutrdf7e70js8o%40group.calendar.google.com&amp;color=%23333333&amp;ctz=America%2FLos_Angeles&amp;showTabs=0&amp;showPrint=0" frameborder="0" scrolling="no"></iframe>
 </div>
-
-{{< parallax-block image="/img/2019-08-24-West-Summit.jpg" >}}
-
-{{< text-block title="Hub Structure" text="The Sunrise Bay Area Hub has an organizational model that relies on the participation of our members (whether you can give 5 mins a week or 40 hours) to succeed. We also rely on mentoring members into holding leadership roles and providing them with the skills and tools to become effective organizers. When everybody actively plugs in and gives what they can, our movement thrives, and we are able to grow our numbers, power, and influence. Fostering and sustaining our community in this way helps us achieve our goals of electing leaders who stand up for climate justice and the health and wellbeing of all people." button-text-1="" button-url-1="" button-text-2="" button-url-2="" >}}
-
-{{< image-block image="/img/hubmap.jpg" >}}
-
-{{< image-block image="/img/sbr_logo.png" >}}
-
-{{< text-block title="Sunrise Bay Radio" text="We are broadcasting the decade of the Green New Deal from our hub's new podcast, Sunrise Bay Radio! Each episode, our hosts Maritte and Richard take a deep dive into how climate change intersects with our highly interconnected society and what we can do to fight back! Tune in each month as we speak with experts, share stories from real people affected by climate change, and map out what it will take to build a livable future. Now available on these platforms: Apple Podcasts, Spotify, Google Podcasts, & Anchor." button-text-1="Apple Podcasts" button-url-1="https://podcasts.apple.com/us/podcast/sunrise-bay-radio/id1534218076" button-text-2="Spotify" button-url-2="https://open.spotify.com/show/2wOP4ZBibLC081qmwYLpvx?si=Hs6XWPVRSVWgOnzV120Qcg&nd=1" >}}
-
-{{< parallax-block image="/img/trump_banner.jpg" >}}
-
-{{< text-block title="Support Our Movement" text="Join our mailing list to hear about upcoming actions, trainings, and open meetings. And support our work by making a donation. Contributions like yours make what we do possible." button-text-1="Join Our Mailing List" button-url-1="{{ joinUrl }}" button-text-2="Donate To The Hub" button-url-2="https://secure.actblue.com/donate/sunrisebayarea?refcode=website" >}}
-
-{{< text-block title="Contact Us" text="For general inquries about Sunrise Bay Area, feel free to send us an email at bayarea@sunrisemovement.org. If you'd like a Sunrise presentation for your organization, please fill out the request form linked below, and we'll get back to you as soon as possible." button-text-1="Send Us An Email" button-url-1="mailto:bayarea@sunrisemovement.org" button-text-2="Request A Presentation" button-url-2="https://docs.google.com/forms/d/e/1FAIpQLSctcS440W9Z9ClzMuanspKCsbbqIbXAAvEqwdZ_k0ECRPgQpg/viewform" >}}
+<div class="parallax" style="background-image: url('/img/2019-08-24-West-Summit.jpg')"></div>
+<div class="col col-12 col-lg-6">
+  <h2>Hub Structure</h2>
+  <p>The Sunrise Bay Area Hub has an organizational model that relies on the participation of our members (whether you can give 5 mins a week or 40 hours) to succeed. We also rely on mentoring members into holding leadership roles and providing them with the skills and tools to become effective organizers. When everybody actively plugs in and gives what they can, our movement thrives, and we are able to grow our numbers, power, and influence. Fostering and sustaining our community in this way helps us achieve our goals of electing leaders who stand up for climate justice and the health and wellbeing of all people.</p>
+</div>
+<div class="parallax" style="background-image: url('/img/trump_banner.jpg')"></div>
+<div class="col col-12 col-lg-6">
+  <h2>Support Our Movement</h2>
+  <p>Join our mailing list to hear about upcoming actions, trainings, and open meetings. And support our work by making a donation. Contributions like yours make what we do possible.</p>
+  <div class="btn-group-vertical">
+    <a class="btn btn-primary" href="https://smvmt.us/bay-announce" target="_blank" rel="noreferrer">Join Our Mailing List</a>
+    <a class="btn btn-primary" href="https://srba.fyi/donate" target="_blank" rel="noreferrer">Donate To The Hub</a>
+  </div>
+</div>
+<div class="col col-12 col-lg-6">
+  <h2>Contact Us</h2>
+  <p>For general inquries about Sunrise Bay Area, feel free to send us an email at <a href="mailto:bayarea@sunrisemovement.org">bayarea@sunrisemovement.org</a>. If you'd like a Sunrise presentation for your organization, please fill out the request form linked below, and we'll get back to you as soon as possible.</p>
+  <div class="btn-group-vertical">
+    <a class="btn btn-primary" href="mailto:bayarea@sunrisemovement.org" target="_blank" rel="noreferrer">Send Us An Email</a>
+    <a class="btn btn-primary" href="mailto:bayarea@sunrisemovement.org" target="_blank" rel="noreferrer">Request A Presentation</a>
+  </div>
+</div>
 
 <!-- -------------- DO NOT MODIFY (unless you know what you're doing). -------------- -->
 

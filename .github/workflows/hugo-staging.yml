@@ -22,7 +22,10 @@ jobs:
 
     - name: Hugo setup
       uses: peaceiris/actions-hugo@v2.4.9
-    
+
+    - name: Build
+      run: ./bin/build --gc --cleanDestinationDir
+
     - name: deploy
       if: job.status == 'success' && github.event == 'pull_request'
       uses: appleboy/scp-action@master

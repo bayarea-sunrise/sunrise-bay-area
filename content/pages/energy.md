@@ -2,6 +2,7 @@
 title: East Bay Equitable Energy Resilience
 url: eastbayenergy
 menu: 
+draft: true
 ---
 
 <div class="col col-12">
