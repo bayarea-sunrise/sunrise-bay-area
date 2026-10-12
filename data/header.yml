@@ -2,9 +2,10 @@ logo: /img/logo_yellow.png
 navbarNameTop: Sunrise Movement
 navbarNameBottom: Bay Area
 joinUrl: https://srba.fyi/join
-menuItems: []
+menuItems:
+  - text: Get the Flock Out
+    url: /flockout/
 banner:
   url: https://smvmt.us/bay-announce
-  text: Tune in to our announcements Signal Chat – an easy way to plug into what
-    is next for Sunrise Bay Area! smvmt.us/bay-announce
+  text: Tune in to our announcements Signal Chat – an easy way to plug into what is next for Sunrise Bay Area! smvmt.us/bay-announce
   id: podcast2021-01-15
