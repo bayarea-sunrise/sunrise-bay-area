@@ -1,8 +1,6 @@
 ---
 title: Get the Flock Out
-url: flockout
-menu:
-  - main
+url: get-the-flock-out
 ---
 <style> 
   strong { font-weight: bold; } 

@@ -17,7 +17,7 @@ menu:
 .welcome-card h2{margin:0 0 .25rem;color:#33342e;text-align:left;font-size:1.45rem;letter-spacing:.08em}
 .welcome-card h3{margin:0 0 1.25rem;color:#33342e;text-align:left;font-size:1rem;text-transform:uppercase;letter-spacing:.12em}
 .welcome-card p{margin:0 0 1rem;color:#33342e;text-align:left;font-size:1rem;line-height:1.65}
-.welcome-card .btn{display:flex;align-items:center;justify-content:center;width:100%;min-height:3.25rem;margin-top:auto;text-align:center}
+.welcome-card .btn{display:flex;align-self:center;align-items:center;justify-content:center;width:fit-content;min-height:3.25rem;margin-top:auto;text-align:center}
 @media(max-width:900px){.welcome-grid{grid-template-columns:1fr 1fr}}
 @media(max-width:600px){.join-page{padding-left:1rem;padding-right:1rem}.join-goals{padding:1.5rem}.welcome-grid{grid-template-columns:1fr}}
 </style>

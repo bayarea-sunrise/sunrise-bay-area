@@ -79,7 +79,6 @@ title: Get the Flock Out
   </section>
 
   <section class="flock-section">
-    <h2>Flock Out in Our Community</h2>
     <div class="flock-carousel" aria-label="Flock Out photo gallery">
       <button class="flock-prev" type="button" aria-label="Previous photo">&#8249;</button>
       <div class="flock-slides">

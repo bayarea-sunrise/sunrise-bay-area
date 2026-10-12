@@ -34,9 +34,8 @@ joinText: Join Sunrise Bay Area (Signal Announcements Chat)
 <div class="parallax" style="background-image: url('/img/trump_banner.jpg')"></div>
 <div class="col col-12 col-lg-6">
   <h2>Support Our Movement</h2>
-  <p>Join our mailing list to hear about upcoming actions, trainings, and open meetings. And support our work by making a donation. Contributions like yours make what we do possible.</p>
+  <p>Support our work by making a donation! Contributions like yours make what we do possible.</p>
   <div class="btn-group-vertical">
-    <a class="btn btn-primary" href="https://smvmt.us/bay-announce" target="_blank" rel="noreferrer">Join Our Mailing List</a>
     <a class="btn btn-primary" href="https://srba.fyi/donate" target="_blank" rel="noreferrer">Donate To The Hub</a>
   </div>
 </div>
