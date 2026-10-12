@@ -64,6 +64,10 @@ We currently host [sunrisebayarea.org](https//sunrisebayarea.org) and [sfbay.sun
 
 Using [Travis](https://travis-ci.org/), changes to this repo are automatically released upon merging to `master`. 
 
+Netlify deploy previews use the configuration in [`netlify.toml`](./netlify.toml).
+If a Netlify site has a build command set in the Netlify UI, clear that override so
+the repository configuration can install the pinned Hugo version and run `./bin/build`.
+
 See the [travis config](./.travis.yml) for more info.
 
 # Updating Submodule Dependencies
