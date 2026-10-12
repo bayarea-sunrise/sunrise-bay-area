@@ -1,7 +1,7 @@
 logo: /img/logo_yellow.png
 navbarNameTop: Sunrise Movement
 navbarNameBottom: Bay Area
-joinUrl: /join/
+joinUrl: https://srba.fyi/join
 menuItems:
   - text: Get the Flock Out
     url: /flockout/
