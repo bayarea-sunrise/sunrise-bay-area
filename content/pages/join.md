@@ -15,7 +15,7 @@ menu:
 .random-call{margin:0 0 3rem;padding:2rem clamp(1.5rem,4vw,3.5rem);border-top:1px solid #33342e;border-bottom:1px solid #33342e;color:#33342e;text-align:center}
 .random-call h2{margin:0 0 .75rem;color:#33342e;font-size:1.5rem}
 .random-call p{margin:0 auto 1.25rem;max-width:700px;font-size:1.1rem;line-height:1.5}
-.welcome-grid{display:grid;width:100%;min-width:0;grid-template-columns:repeat(3,minmax(0,1fr));grid-auto-columns:minmax(0,1fr);gap:1.5rem;contain:inline-size}
+.welcome-grid{display:grid;width:100%;min-width:0;grid-template-columns:repeat(2,minmax(0,1fr));grid-auto-columns:minmax(0,1fr);gap:1.5rem;contain:inline-size}
 .welcome-card{display:flex;width:100%;min-width:0;box-sizing:border-box;flex-direction:column;background:#f7f3e8;border-top:10px solid #ffde16;padding:1.75rem;color:#33342e;overflow:hidden}
 .welcome-card h2{margin:0 0 .25rem;color:#33342e;text-align:left;font-size:1.45rem;letter-spacing:.08em}
 .welcome-card h3{margin:0 0 1.25rem;color:#33342e;text-align:left;font-size:1rem;text-transform:uppercase;letter-spacing:.12em}
@@ -25,7 +25,6 @@ menu:
 .welcome-card summary::marker{color:#33342e}
 .welcome-card summary:focus-visible{outline:3px solid #33342e;outline-offset:4px}
 .welcome-card details p{margin:1rem 0 0;color:#33342e;text-align:left;font-size:1rem;line-height:1.65;overflow-wrap:anywhere}
-@media(max-width:900px){.welcome-grid{grid-template-columns:1fr 1fr}}
 @media(max-width:600px){.join-page{padding-left:1rem;padding-right:1rem}.join-goals{padding:1.5rem}.welcome-grid{grid-template-columns:1fr}}
 </style>
 
@@ -87,6 +86,14 @@ menu:
         <p>Whether you're brand new to Sunrise or a seasoned organizer, I'd love to chat!</p>
       </details>
     </article>
+    <article class="welcome-card">
+      <h2>Brooke</h2>
+      <a class="btn btn-primary" href="https://cal.com/brooke-bachman-cuf5fu/30min" target="_blank" rel="noreferrer">Chat with Brooke</a>
+      <details>
+        <summary>More about Brooke</summary>
+        <p>Whether you're brand new to Sunrise or a seasoned organizer, I'd love to chat!</p>
+      </details>
+    </article>
   </section>
 </div>
 
@@ -94,7 +101,8 @@ menu:
   const welcomeCalls = [
     'https://cal.com/ashmu?members=1',
     'https://cal.com/jiyoo?members=1',
-    'https://cal.com/lbouchard/30min?members=1&user=lbouchard'
+    'https://cal.com/lbouchard/30min?members=1&user=lbouchard',
+    'https://cal.com/brooke-bachman-cuf5fu/30min'
   ];
   document.getElementById('random-call-link').addEventListener('click', (event) => {
     event.currentTarget.href = welcomeCalls[Math.floor(Math.random() * welcomeCalls.length)];

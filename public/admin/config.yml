@@ -1,0 +1,7 @@
+backend:
+  name: github
+  repo: bayarea-sunrise/sunrise-bay-area
+  branch: master
+  base_url: https://us-central1-sunrise-bay-area-website.cloudfunctions.net
+  auth_endpoint: /oauth/auth
+site_url: https://sunrisebayarea.org
