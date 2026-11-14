@@ -21,10 +21,12 @@ menu:
 .welcome-card h3{margin:0 0 1.25rem;color:#33342e;text-align:left;font-size:1rem;text-transform:uppercase;letter-spacing:.12em}
 .welcome-card .btn{display:flex;align-self:center;align-items:center;justify-content:center;width:fit-content;min-height:3.25rem;margin:0 0 1.5rem;text-align:center}
 .welcome-card details{width:100%;min-width:0;border-top:1px solid rgba(51,52,46,.25);padding-top:1rem}
-.welcome-card summary{cursor:pointer;color:#33342e;font-weight:700;letter-spacing:.05em;overflow-wrap:anywhere}
-.welcome-card summary::marker{color:#33342e}
+.welcome-card summary{cursor:pointer;color:#33342e;font-weight:400;letter-spacing:normal;line-height:1.65;overflow-wrap:anywhere}
+.welcome-card .description-preview{font-weight:400;letter-spacing:normal}
+.welcome-card summary::marker{content:''}
 .welcome-card summary:focus-visible{outline:3px solid #33342e;outline-offset:4px}
 .welcome-card details p{margin:1rem 0 0;color:#33342e;text-align:left;font-size:1rem;line-height:1.65;overflow-wrap:anywhere}
+.welcome-card .description-only{margin:0;color:#33342e;text-align:left;font-size:1rem;line-height:1.65;overflow-wrap:anywhere}
 @media(max-width:600px){.join-page{padding-left:1rem;padding-right:1rem}.join-goals{padding:1.5rem}.welcome-grid{grid-template-columns:1fr}}
 </style>
 
@@ -56,7 +58,7 @@ menu:
       <h3>Hub Coordinator</h3>
       <a class="btn btn-primary" href="https://cal.com/ashmu?members=1" target="_blank" rel="noreferrer">Chat with Ashmu</a>
       <details>
-        <summary>More about Ashmu</summary>
+        <summary>More about Ashmu<span class="description-preview"></span></summary>
         <p>Aloha! 🌺 My name is Ashmu (pronounced ash-moo like a cow), pronouns she/her, and I am originally from Oahu, Hawai‘i. I’ve lived in the Bay for about 4 years now and love it! I’ve been a member of Sunrise Movement since 2024, and have been <strong>Hub Coordinator</strong> for the Sunrise Bay Area Hub since January 2025. I also am the <strong>Communications/Media Lead</strong> for the hub. Sunrise has truly been life changing for me, and a place where I've grown and learned so much. I can't wait for the same for you!</p>
         <p>I am open for <strong>Intro Calls</strong> if you are brand new and don't know where to start. Any of the Welcome Team can get you going, but as hub coordinator, I have a great birds eye of view of everything going on. Or schedule your Welcome Call with me if you are especially interested in helping with Comms or Social Media!</p>
         <p>Feel free to always schedule a call if you want to connect in any other way! I have a crazy work schedule (I'm a flight attendant) and this is the best way to get me on the phone lol</p>
@@ -68,7 +70,7 @@ menu:
       <h3>Infra Lead</h3>
       <a class="btn btn-primary" href="https://cal.com/jiyoo?members=1" target="_blank" rel="noreferrer">Chat with Jiyoo</a>
       <details>
-        <summary>More about Jiyoo</summary>
+        <summary>More about Jiyoo<span class="description-preview"></span></summary>
         <p>🌟✧｡٩(ˊᗜˋ )و✧*｡! 🌟 <strong>Hello all big-picture strategists &amp; nitty-gritty builders!</strong></p>
         <p><strong>As our hub's infrastructure lead, I help build up our physical and digital spaces 🛠</strong></p>
         <p><strong>//// website, systems, logistics, &amp; data 🧑‍💻💭</strong></p>
@@ -82,7 +84,7 @@ menu:
       <h3>Flock Campaign Lead</h3>
       <a class="btn btn-primary" href="https://cal.com/lbouchard/30min?members=1&amp;user=lbouchard" target="_blank" rel="noreferrer">Chat with Luc</a>
       <details>
-        <summary>More about Luc</summary>
+        <summary>More about Luc<span class="description-preview"></span></summary>
         <p>Whether you're brand new to Sunrise or a seasoned organizer, I'd love to chat!</p>
       </details>
     </article>
@@ -90,19 +92,64 @@ menu:
       <h2>Brooke</h2>
       <a class="btn btn-primary" href="https://cal.com/brooke-bachman-cuf5fu/30min" target="_blank" rel="noreferrer">Chat with Brooke</a>
       <details>
-        <summary>More about Brooke</summary>
+        <summary>More about Brooke<span class="description-preview"></span></summary>
         <p>Whether you're brand new to Sunrise or a seasoned organizer, I'd love to chat!</p>
+      </details>
+    </article>
+    <article class="welcome-card">
+      <h2>Felicia</h2>
+      <a class="btn btn-primary" href="https://cal.com/feliciasba/" target="_blank" rel="noreferrer">Chat with Felicia</a>
+      <details>
+        <summary>More about Felicia<span class="description-preview"></span></summary>
+        <p>Whether you're brand new to Sunrise or a seasoned organizer, I'd love to chat!</p>
+      </details>
+    </article>
+    <article class="welcome-card">
+      <h2>Grace</h2>
+      <a class="btn btn-primary" href="https://cal.com/gr4ce" target="_blank" rel="noreferrer">Chat with Grace</a>
+      <details>
+        <summary>More about Grace<span class="description-preview"></span></summary>
+        <p>Interested in joining our hub? Schedule a quick call with me to learn all about Sunrise Bay Area and how to get plugged in :)</p>
       </details>
     </article>
   </section>
 </div>
 
 <script>
+  document.querySelectorAll('.welcome-card details').forEach((details) => {
+    const descriptionElements = [...details.querySelectorAll('p')];
+    const description = descriptionElements
+      .map((paragraph) => paragraph.textContent)
+      .join(' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+    if (description.length <= 100) {
+      const descriptionElement = document.createElement('p');
+      descriptionElement.className = 'description-only';
+      descriptionElement.textContent = description;
+      details.replaceWith(descriptionElement);
+      return;
+    }
+
+    const summary = details.querySelector('summary');
+    const previewEnd = description.slice(0, 100).lastIndexOf(' ');
+    const preview = description.slice(0, previewEnd);
+    summary.textContent = `▶ ${preview}...`;
+    descriptionElements.forEach((paragraph) => {
+      paragraph.hidden = true;
+    });
+    details.addEventListener('toggle', () => {
+      summary.textContent = details.open ? `▼ ${description}` : `▶ ${preview}...`;
+    });
+  });
+
   const welcomeCalls = [
     'https://cal.com/ashmu?members=1',
     'https://cal.com/jiyoo?members=1',
     'https://cal.com/lbouchard/30min?members=1&user=lbouchard',
-    'https://cal.com/brooke-bachman-cuf5fu/30min'
+    'https://cal.com/brooke-bachman-cuf5fu/30min',
+    'https://cal.com/feliciasba/',
+    'https://cal.com/gr4ce'
   ];
   document.getElementById('random-call-link').addEventListener('click', (event) => {
     event.currentTarget.href = welcomeCalls[Math.floor(Math.random() * welcomeCalls.length)];
